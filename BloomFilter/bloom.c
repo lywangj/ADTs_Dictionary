@@ -1,4 +1,4 @@
-#include "specific.h"
+#include "bloom.h"
 
 /* The maximum number of words we will want to input.
    Approx : Hashtable will be (e.g.) 20 times this size
