@@ -1,4 +1,4 @@
-#include "specific.h"
+#include "hash.h"
 
 /* The maximum number of words we will want to input.
    Exact : Hashtable will be twice this size
