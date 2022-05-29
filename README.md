@@ -1,8 +1,8 @@
 ## ADTs_Dictionary
 
 ### Approach 1. Hash table
-![A test image](images/2022-04-22_001739.png)
+<img src="images/2022-04-22_001739.png" height="230">
 
 #
 ### Approach 2. Bloom filter
-![A test image](images/2022-04-22_001855.png)
+<img src="images/2022-04-22_001855.png" height="200">
